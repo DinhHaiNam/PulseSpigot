@@ -3,7 +3,7 @@ name: PulseSpigot Build
 on:
   push:
     branches:
-      - main
+      - nem
 
 jobs:
   build:
